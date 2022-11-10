@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/barcode-layout/static/css/main.4d7e62c5.css",
+    "main.js": "/barcode-layout/static/js/main.b1e60283.js",
+    "static/js/787.7ca4fc30.chunk.js": "/barcode-layout/static/js/787.7ca4fc30.chunk.js",
+    "index.html": "/barcode-layout/index.html",
+    "static/media/delete.svg": "/barcode-layout/static/media/delete.1129c53a10f3c716357028ea030e9d23.svg",
+    "main.4d7e62c5.css.map": "/barcode-layout/static/css/main.4d7e62c5.css.map",
+    "main.b1e60283.js.map": "/barcode-layout/static/js/main.b1e60283.js.map",
+    "787.7ca4fc30.chunk.js.map": "/barcode-layout/static/js/787.7ca4fc30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d7e62c5.css",
+    "static/js/main.b1e60283.js"
+  ]
+}
