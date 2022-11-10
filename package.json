@@ -2,7 +2,7 @@
   "name": "barcode-layout",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "https://gordonmleigh.github.com/barcode-layout",
+  "homepage": "https://gordonmleigh.github.io/barcode-layout",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

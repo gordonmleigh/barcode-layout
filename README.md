@@ -1,3 +1,3 @@
 # Barcode Layout
 
-See [the App](https://gordonmleigh.github.com/barcode-layout).
+See [the App](https://gordonmleigh.github.io/barcode-layout).
